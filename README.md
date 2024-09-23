@@ -4,19 +4,21 @@
 This repository contains all the slides, follow-up materials, and resources for the talks from the session.
 
 
-## Connect
-Join our community and stay updated!
-- [**WhatsApp Community**]: (https://chat.whatsapp.com/DBYHmKyGarL1YqRx8INeu9)
-- [**LinkedIn Page**]: (https://www.linkedin.com/company/101604932/admin/dashboard/)
-- [**Discord Server**]: (https://discord.gg/ZQGRW6uCXA)
-- [**Explore all resources**]: (https://bento.me/bios)
+## Resources
+[CampusX YT](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+[Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+[Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+[Stanford CS224n for Deep Learning on YT](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 
 ## Team
 Meet the amazing team:
-- [Adarsh Dubey]: (https://www.linkedin.com/in/dubeyadarsh/)
-- [Shreya Pandey]: (https://www.linkedin.com/in/shreyarpandey/)
-- [Pranav Ahire]: (https://www.linkedin.com/in/pranav-ahire-94a5b8238/)
-- [Shreyash Saitwal]: (https://www.linkedin.com/in/shreyashsaitwal/)
+[Adarsh Dubey](https://www.linkedin.com/in/dubeyadarsh/)
+[Shreya Pandey](https://www.linkedin.com/in/shreyarpandey/)
+[Pranav Ahire](https://www.linkedin.com/in/pranav-ahire-94a5b8238/)
+[Shreyash Saitwal](https://www.linkedin.com/in/shreyashsaitwal/)
+
+## Connect with us
+[BiOS Community](https://bento.me/bios)
 
 ---
 
