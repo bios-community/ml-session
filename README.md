@@ -12,7 +12,7 @@ This repository contains all the slides, follow-up materials, and resources for 
 
 ## Team
 Meet the amazing team:
-[Adarsh Dubey](https://www.linkedin.com/in/dubeyadarsh/)
+[Adarsh Dubey](https://www.linkedin.com/in/dubeyadarsh/)  return
 [Shreya Pandey](https://www.linkedin.com/in/shreyarpandey/)
 [Pranav Ahire](https://www.linkedin.com/in/pranav-ahire-94a5b8238/)
 [Shreyash Saitwal](https://www.linkedin.com/in/shreyashsaitwal/)
