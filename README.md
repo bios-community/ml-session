@@ -11,7 +11,7 @@ This repository contains all the slides, follow-up materials, and resources for 
 [Stanford CS224n for Deep Learning on YT](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) <br />
 
 ## Team
-Meet the amazing team:
+Meet the amazing team: <br />
 [Adarsh Dubey](https://www.linkedin.com/in/dubeyadarsh/) <br />
 [Shreya Pandey](https://www.linkedin.com/in/shreyarpandey/) <br />
 [Pranav Ahire](https://www.linkedin.com/in/pranav-ahire-94a5b8238/) <br />
